@@ -85,3 +85,6 @@ macos/Flutter/ephemeral/
 
 !/android/gradle-wrapper.jar
 !/ios/Runner/Base.lproj/LaunchScreen.storyboard
+
+#gitignore
+.gitignore
